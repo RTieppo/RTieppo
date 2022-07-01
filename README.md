@@ -1,4 +1,5 @@
-<h2 align="left">Oiee! Sou o Tieppo \n lll</h2>
+<h2 align="left">Oiee! Sou o Tieppo</h2>
+<h2 align="left">Estudante de ADS</h2>
 
 ###
 
