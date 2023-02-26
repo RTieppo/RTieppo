@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">🔭DEV. Python<br>📚Estudante de ADS</p>
+<p align="center">🔭Dev. Python<br>📚Estudante de ADS</p>
 
 ###
 
