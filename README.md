@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">🔭Suporte TI<br>📚Estudante de ADS<br>🎲Desenvolvendo um RPG</p>
+<p align="center">🔭DEV. Python<br>📚Estudante de ADS</p>
 
 ###
 
