@@ -50,3 +50,16 @@
 <img src="https://raw.githubusercontent.com/RTieppo/RTieppo/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
+<p align="left">🔗 <strong>Projetos em Destaque:</strong></p>
+
+<ul>
+  <li>
+    <a href="https://github.com/SIGeRE-Edu/SIGeRE-Edu" target="_blank">
+      <strong>📌 SIGeRE: Sistema de Gestão Educacional</strong>
+    </a>  
+    <p>Plataforma para otimizar a gestão de recursos educacionais em instituições de ensino, com módulos administrativos e operacionais.</p>
+  </li>
+</ul>
+###
