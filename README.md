@@ -52,6 +52,7 @@
 ###
 
 ###
+
 <p align="left">🔗 <strong>Projetos em Destaque:</strong></p>
 
 <ul>
@@ -62,4 +63,5 @@
     <p>Plataforma para otimizar a gestão de recursos educacionais em instituições de ensino, com módulos administrativos e operacionais.</p>
   </li>
 </ul>
+
 ###
